@@ -1,0 +1,14 @@
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.DataAccess.deps.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.DataAccess.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.DataAccess.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.Core.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.Entities.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.Core.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\bin\Debug\netcoreapp3.1\BackEnd.Entities.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.AssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.csproj.CopyComplete
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.DataAccess\obj\Debug\netcoreapp3.1\BackEnd.DataAccess.pdb

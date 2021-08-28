@@ -1,0 +1,12 @@
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\bin\Debug\netcoreapp3.1\BackEnd.Entities.deps.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\bin\Debug\netcoreapp3.1\BackEnd.Entities.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\bin\Debug\netcoreapp3.1\BackEnd.Entities.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\bin\Debug\netcoreapp3.1\BackEnd.Core.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\bin\Debug\netcoreapp3.1\BackEnd.Core.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.AssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.csproj.CopyComplete
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\Development\BackEnd.Entities\obj\Debug\netcoreapp3.1\BackEnd.Entities.pdb

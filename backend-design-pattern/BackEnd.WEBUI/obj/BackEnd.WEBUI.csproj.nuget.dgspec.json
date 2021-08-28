@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.WEBUI\\BackEnd.WEBUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Business\\BackEnd.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Business\\BackEnd.Business.csproj",
+        "projectName": "BackEnd.Business",
+        "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Business\\BackEnd.Business.csproj",
+        "packagesPath": "C:\\Users\\aatas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj"
+              },
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj"
+              },
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj",
+        "projectName": "BackEnd.Core",
+        "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj",
+        "packagesPath": "C:\\Users\\aatas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj",
+        "projectName": "BackEnd.DataAccess",
+        "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aatas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj"
+              },
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj",
+        "projectName": "BackEnd.Entities",
+        "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj",
+        "packagesPath": "C:\\Users\\aatas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Core\\BackEnd.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.WEBUI\\BackEnd.WEBUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.WEBUI\\BackEnd.WEBUI.csproj",
+        "projectName": "BackEnd.WEBUI",
+        "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.WEBUI\\BackEnd.WEBUI.csproj",
+        "packagesPath": "C:\\Users\\aatas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.WEBUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Business\\BackEnd.Business.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Business\\BackEnd.Business.csproj"
+              },
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.DataAccess\\BackEnd.DataAccess.csproj"
+              },
+              "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj": {
+                "projectPath": "C:\\Users\\aatas\\Desktop\\NET CORE\\Asp.Net Core MVC\\Development\\BackEnd.Entities\\BackEnd.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

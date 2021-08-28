@@ -1,0 +1,54 @@
+﻿@model BackEnd.WEBUI.Models.ProductListViewModel
+
+@{ 
+    Layout = "~/Views/_Layout.cshtml";
+}
+    <div>
+        <table class="table table-responsive">
+            <tr>
+                <td>Ürün Adı</td>
+                <td>Birim Fiyatı</td>
+                <td>Stok Adeti</td>
+                <td></td>
+            </tr>
+
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td>@product.UnitPrice</td>
+                    <td>@product.UnitsInStock</td>
+                    <td><a class="btn btn-sm btn-success" asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@product.ProductId">Add To Cart</a></td>
+                </tr>
+            }
+
+        </table>
+    </div>
+
+    <div class="row my-3">
+        <div class="col">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Önceki</a>
+                    </li>
+
+
+                    @for (int i = 0; i < Model.PageInfo.TotalPages(); i++)
+                    {
+
+                            <li class="page-item @(Model.PageInfo.CurrentPage==i+1?"active":"")">
+                                <a class="page-link"
+                                   href="/product/index?page=@(i + 1)">@(i + 1)</a>
+                            </li>
+                    }
+
+
+
+                    <li class="page-item">
+                        <a class="page-link" href="#">Sonraki</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
